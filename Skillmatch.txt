@@ -1,0 +1,137 @@
+JOB ROLE:Data Scientist
+**************************************************
+Alice is 100.0 match.
+==================================================
+
+Bob is 0.0 match.
+missing:Pandas,Statistics,Machine Learning,SQL,Data Visualization,NumPy,Python
+learning suggestions:
+Pandas Documentation - https://pandas.pydata.org/docs/
+Intro to ML (Coursera - Andrew Ng) - https://www.coursera.org/learn/machine-learning
+SQL Tutorial (W3Schools) - https://www.w3schools.com/sql/
+Data Visualization with Python (Coursera) - https://www.coursera.org/learn/python-for-data-visualization
+NumPy Documentation - https://numpy.org/doc/
+Python Tutorial (W3Schools) - https://www.w3schools.com/python/
+==================================================
+
+Charlie is 14.3 match.
+missing:Pandas,Statistics,Machine Learning,SQL,Data Visualization,NumPy
+learning suggestions:
+Pandas Documentation - https://pandas.pydata.org/docs/
+Intro to ML (Coursera - Andrew Ng) - https://www.coursera.org/learn/machine-learning
+SQL Tutorial (W3Schools) - https://www.w3schools.com/sql/
+Data Visualization with Python (Coursera) - https://www.coursera.org/learn/python-for-data-visualization
+NumPy Documentation - https://numpy.org/doc/
+==================================================
+
+Diana is 14.3 match.
+missing:Pandas,Statistics,Machine Learning,Data Visualization,NumPy,Python
+learning suggestions:
+Pandas Documentation - https://pandas.pydata.org/docs/
+Intro to ML (Coursera - Andrew Ng) - https://www.coursera.org/learn/machine-learning
+Data Visualization with Python (Coursera) - https://www.coursera.org/learn/python-for-data-visualization
+NumPy Documentation - https://numpy.org/doc/
+Python Tutorial (W3Schools) - https://www.w3schools.com/python/
+==================================================
+
+==================================================
+
+JOB ROLE:Web Developer
+**************************************************
+Alice is 0.0 match.
+missing:JavaScript,Node.js,React,HTML,CSS,Git
+learning suggestions:
+JavaScript Basics (Mozilla MDN) - https://developer.mozilla.org/en-US/docs/Web/JavaScript
+Node.js Crash Course (YouTube) - https://www.youtube.com/watch?v=fBNz5xF-Kx4
+React Official Docs - https://react.dev/
+HTML Basics (W3Schools) - https://www.w3schools.com/html/
+CSS Tutorial (W3Schools) - https://www.w3schools.com/css/
+Git Basics (freeCodeCamp) - https://www.freecodecamp.org/news/git-and-github-for-beginners/
+==================================================
+
+Bob is 100.0 match.
+==================================================
+
+Charlie is 0.0 match.
+missing:JavaScript,Node.js,React,HTML,CSS,Git
+learning suggestions:
+JavaScript Basics (Mozilla MDN) - https://developer.mozilla.org/en-US/docs/Web/JavaScript
+Node.js Crash Course (YouTube) - https://www.youtube.com/watch?v=fBNz5xF-Kx4
+React Official Docs - https://react.dev/
+HTML Basics (W3Schools) - https://www.w3schools.com/html/
+CSS Tutorial (W3Schools) - https://www.w3schools.com/css/
+Git Basics (freeCodeCamp) - https://www.freecodecamp.org/news/git-and-github-for-beginners/
+==================================================
+
+Diana is 0.0 match.
+missing:JavaScript,Node.js,React,HTML,CSS,Git
+learning suggestions:
+JavaScript Basics (Mozilla MDN) - https://developer.mozilla.org/en-US/docs/Web/JavaScript
+Node.js Crash Course (YouTube) - https://www.youtube.com/watch?v=fBNz5xF-Kx4
+React Official Docs - https://react.dev/
+HTML Basics (W3Schools) - https://www.w3schools.com/html/
+CSS Tutorial (W3Schools) - https://www.w3schools.com/css/
+Git Basics (freeCodeCamp) - https://www.freecodecamp.org/news/git-and-github-for-beginners/
+==================================================
+
+==================================================
+
+JOB ROLE:AI Engineer
+**************************************************
+Alice is 20.0 match.
+missing:TensorFlow,PyTorch,NLP,Deep Learning
+learning suggestions:
+TensorFlow Guide (Official) - https://www.tensorflow.org/learn
+PyTorch Tutorials (Official) - https://pytorch.org/tutorials/
+Natural Language Processing (Kaggle) - https://www.kaggle.com/learn/natural-language-processing
+Deep Learning Specialization (Coursera) - https://www.coursera.org/specializations/deep-learning
+==================================================
+
+Bob is 0.0 match.
+missing:TensorFlow,NLP,Deep Learning,Python,PyTorch
+learning suggestions:
+TensorFlow Guide (Official) - https://www.tensorflow.org/learn
+Natural Language Processing (Kaggle) - https://www.kaggle.com/learn/natural-language-processing
+Deep Learning Specialization (Coursera) - https://www.coursera.org/specializations/deep-learning
+Python Tutorial (W3Schools) - https://www.w3schools.com/python/
+PyTorch Tutorials (Official) - https://pytorch.org/tutorials/
+==================================================
+
+Charlie is 100.0 match.
+==================================================
+
+Diana is 0.0 match.
+missing:TensorFlow,NLP,Deep Learning,Python,PyTorch
+learning suggestions:
+TensorFlow Guide (Official) - https://www.tensorflow.org/learn
+Natural Language Processing (Kaggle) - https://www.kaggle.com/learn/natural-language-processing
+Deep Learning Specialization (Coursera) - https://www.coursera.org/specializations/deep-learning
+Python Tutorial (W3Schools) - https://www.w3schools.com/python/
+PyTorch Tutorials (Official) - https://pytorch.org/tutorials/
+==================================================
+
+==================================================
+
+JOB ROLE:Database Administrator
+**************************************************
+Alice is 20.0 match.
+missing:Database Design,Security,Performance Tuning,Backup
+==================================================
+
+Bob is 0.0 match.
+missing:Database Design,Backup,Security,SQL,Performance Tuning
+learning suggestions:
+SQL Tutorial (W3Schools) - https://www.w3schools.com/sql/
+==================================================
+
+Charlie is 0.0 match.
+missing:Database Design,Backup,Security,SQL,Performance Tuning
+learning suggestions:
+SQL Tutorial (W3Schools) - https://www.w3schools.com/sql/
+==================================================
+
+Diana is 100.0 match.
+==================================================
+
+==================================================
+
