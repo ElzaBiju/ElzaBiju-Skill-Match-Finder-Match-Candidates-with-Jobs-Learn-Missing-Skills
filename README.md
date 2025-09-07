@@ -21,6 +21,4 @@ Output Format: Text files (Skillmatch.txt, cmp_match.txt)
 HR teams evaluating candidates for different job roles.
 Students & professionals analyzing their readiness for a career path.
 Learning platforms recommending courses based on missing skills.
-Students & professionals analyzing their readiness for a career path.
 
-Learning platforms recommending courses based on missing skills.
